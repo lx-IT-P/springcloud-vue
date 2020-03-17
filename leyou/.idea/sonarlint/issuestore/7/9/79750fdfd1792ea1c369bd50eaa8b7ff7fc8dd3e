@@ -1,0 +1,14 @@
+
+K
+java:S1066"/Merge this if statement with the enclosing one.(âù£Ìÿÿÿÿÿ
+d
+java:S1192"HDefine a constant instead of duplicating this literal "orderId" 3 times.(ÍéÛñıÿÿÿÿ
+D
+java:S2447Ü"-Null is returned but a "Boolean" is expected.(¥¹ï
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ËËÄ5
+b
+java:S1871B"LThis branch's code block is the same as the block for the branch on line 64.(–‹‘ƒ
+k
+java:S3252¥"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(ÓüõØûÿÿÿÿ
+G
+java:S1602_",Remove useless curly braces around statement(”Àıÿÿÿÿ
