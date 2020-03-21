@@ -1,5 +1,12 @@
 
+<<<<<<< HEAD
 @
 java:S5411*"*Use the primitive boolean expression here.(ûµÏğ
 j
 java:S3252!"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(ÓüõØûÿÿÿÿ
+=======
+o
+java:S3252"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(ÓüõØûÿÿÿÿ8€ú†è.
+E
+java:S5411"*Use the primitive boolean expression here.(ûµÏğ8€ú†è.
+>>>>>>> first

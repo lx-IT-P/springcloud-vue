@@ -1,0 +1,11 @@
+
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(Æì° úÿÿÿÿ8Ï³Ï”.
+7
+java:S1220""Move this file to a named package.8Ï³Ï”.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(íË¥€úÿÿÿÿ8Ï³Ï”.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(İÍŸ„şÿÿÿÿ8Ï³Ï”.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(İÍŸ„şÿÿÿÿ8Ï³Ï”.
+]	java:S125!"<This block of commented-out lines of code should be removed.(­Ï³ıÿÿÿÿ8Ï³Ï”.
+E	java:S108<")Either remove or fill this block of code.(¨¸îê8Ï³Ï”.
+J
+java:S1481"(Remove this unused "str" local variable.(ûÍÇÉøÿÿÿÿ8Ï³Ï”.

@@ -19,10 +19,17 @@ var menus = [
   {
     action: "people",
     title: "会员管理",
+<<<<<<< HEAD
     path:"/user",
     items: [
       { title: "会员统计", path: "/statistics" },
       { title: "会员管理", path: "/list" }
+=======
+    path:"/member",
+    items: [
+      { title: "会员统计", path: "/statistics" },
+      { title: "会员管理", path: "/member" }
+>>>>>>> first
     ]
   },
   {

@@ -32,6 +32,11 @@ public enum ExceptionEnum {
     INVALID_USERNAME_OR_PASSWORD(400, "无效用户名或密码"),
     GENERATE_TOKEN_ERROR(500, "生成token失败"),
     UNAUTHORIZED(403, "未授权"),
+<<<<<<< HEAD
+=======
+    MEMBER_NOT_FOUND(404, "会员没有找到"),
+    MEMBER_SAVE_ERROR(500,"新增会员保存是失败")
+>>>>>>> first
     ;
 
 

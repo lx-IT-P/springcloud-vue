@@ -51,7 +51,11 @@ public class BrandController {
      * @param cids
      * @return
      */
+<<<<<<< HEAD
     @PostMapping  // 传入 "1,2,3"的字符串可以解析为列表
+=======
+    @PostMapping("update") // 传入 "1,2,3"的字符串可以解析为列表
+>>>>>>> first
     public ResponseEntity<Void> saveBrand(Brand brand, @RequestParam("cids") List<Long> cids) {
         brandService.saveBrand(brand, cids);
         return new ResponseEntity<>(HttpStatus.CREATED);
@@ -91,7 +95,11 @@ public class BrandController {
      * @param brand
      * @return
      */
+<<<<<<< HEAD
     @PostMapping("update")
+=======
+    @PutMapping("update")
+>>>>>>> first
     public ResponseEntity<Integer> editBrand(Brand brand){
         return ResponseEntity.ok(brandService.editBrand(brand));
     }

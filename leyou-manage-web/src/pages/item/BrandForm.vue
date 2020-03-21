@@ -70,7 +70,11 @@
           // 将数据提交到后台
           // this.$http.post('/item/brand', this.$qs.stringify(params))
           this.$http({
+<<<<<<< HEAD
             method: this.isEdit ? 'post' : 'put',
+=======
+            method: this.isEdit ? 'put' : 'post',
+>>>>>>> first
             url: '/item/brand/update',
             data: this.$qs.stringify(params)
           }).then(() => {

@@ -46,4 +46,20 @@ e
 b
 2ly-sms/src/main/java/com/leyou/utils/SmsUtils.java,5\a\5a04c7527a9bd8a68a4ec004048048a3caed4d45
 {
+<<<<<<< HEAD
 Kly-common/src/main/java/com/leyou/common/advice/CommonExceptionHandler.java,3\0\3073f932c6fb63320c75d80c0fdafd979d0b3f43
+=======
+Kly-common/src/main/java/com/leyou/common/advice/CommonExceptionHandler.java,3\0\3073f932c6fb63320c75d80c0fdafd979d0b3f43
+x
+Hly-item/ly-item-interface/src/main/java/com/leyou/item/api/BrandApi.java,9\c\9c210d08a0e2d2c95f2a7ff45e97167dce03fbab
+
+Oly-item/ly-item-service/src/main/java/com/leyou/item/service/MemberService.java,b\8\b8c29b39fbd97e10b7f8d380d524a93ada353c6d
+
+Oly-item/ly-item-interface/src/main/java/com/leyou/item/pojo/TbSeckillOrder.java,0\4\049f6147dfcd6078e48bfe420a23839745606b80
+~
+Nly-item/ly-item-interface/src/main/java/com/leyou/item/pojo/TbMemberLevel.java,5\4\548848b3ef460b61cb7dc7e125dd0b181e3a9409
+q
+Aly-common/src/main/java/com/leyou/common/enums/ExceptionEnum.java,c\6\c68882dea1dcce6a67c0c9ece934e9ad87c69251
+~
+Nly-item/ly-item-service/src/main/java/com/leyou/item/web/MemberController.java,6\5\65d0f8af2f6bcb4211ef5c9cc7acfd5997b2d772
+>>>>>>> first

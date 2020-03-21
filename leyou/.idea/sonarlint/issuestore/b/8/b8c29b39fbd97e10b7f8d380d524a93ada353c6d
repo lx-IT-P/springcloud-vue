@@ -1,0 +1,10 @@
+
+G
+java:S54113"*Use the primitive boolean expression here.(ûµÏğ8Åœ¯é.
+X
+java:S1128	"6Remove this unused import 'com.leyou.item.pojo.Brand'.(Õ±’Ìÿÿÿÿÿ8Åœ¯é.
+q
+java:S3252'"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(ÓüõØûÿÿÿÿ8Åœ¯é.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Åœ¯é.
+]	java:S125`"<This block of commented-out lines of code should be removed.(ÉÒ¬¦ıÿÿÿÿ8Åœ¯é.
